@@ -40,11 +40,13 @@ Five characteristics of different individuals commonly known as big five charact
 `git clone https://github.com/Abdul-Rahman-9040/Personality_Prediction_Project`
 2. Change the current working directory <br>
 `cd Personality_Prediction_Project`
-3. Activate the virual environment <br>
+3. Create virual environment <br>
+`python -m venv venv`
+4. Activate the virual environment <br>
 `venv\Scripts\activate`
-4. Install the requirements <br>
+5. Install the requirements <br>
 `pip install -r requirements.txt`
-5. Run the app <br>
+6. Run the app <br>
 `python app.py`
 
 ## Tech Stack :
