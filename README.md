@@ -37,7 +37,7 @@ Five characteristics of different individuals commonly known as big five charact
 
 ## Setup Instructions:
 1. Clone the repository <br>
-`git clone https://github.com/Anjali2001saxena/Personality_Prediction_Project.git`
+`git clone https://github.com/Abdul-Rahman-9040/Personality_Prediction_Project`
 2. Change the current working directory <br>
 `cd Personality_Prediction_Project`
 3. Activate the virual environment <br>
@@ -59,12 +59,6 @@ Five characteristics of different individuals commonly known as big five charact
 - Pandas
 - Matplotlib
 
-<br><br>
-
-## Screenshots :
-<p align="center">
-  <img src="Screenshots/Home.PNG">
-</p>
 <br><br>
 
 ## Applications :
